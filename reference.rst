@@ -8,7 +8,7 @@ Kit
 -----------------------
 
 * Geoscan 401 unmanned aerial vehicle (UAV) 
-* UAV transport container
+* UAV's transport container
 * Payload: *
 
    * customized Sony А6000 camera;
@@ -22,7 +22,7 @@ Kit
 * 37 V LiPo battery 
 * Left rotation propeller  - 2 PCs
 * Right rotation propeller - 2 PCs
-* Charge station with transport case
+* Charge station with transport container
 * Ground Control Station (GCS) based on laptop with software *
 * Table for GCS *
 * Mouse
@@ -32,18 +32,18 @@ Kit
 * SDHC card 64 Gb - 2 PCs *
 * SD card 4 Gb - 2 PCs *
 * Wrench, 13 mm
-* Nut for a propeller fixation (right hand thread) - 2 PCs
-* Nut for a propeller fixation (left hand thread) - 2 PCs
-* Washer for a propeller fixation - 4 PCs
+* Nut (right hand thread) - 2 PCs
+* Nut (left hand thread) - 2 PCs
+* Washer - 4 PCs
 * USB cable
 * GCS “Video” *
 * Spare parts and accessories:
 
   * Left rotation propeller;
   * Right rotation propeller;
-  * Nut for a propeller fixation (right hand thread) - 2 PCs;
-  * Nut for a propeller fixation (left hand thread) - 2 PCs;
-  * Washer for a propeller fixation - 4 PCs;
+  * Nut (right hand thread) - 2 PCs;
+  * Nut (left hand thread) - 2 PCs;
+  * Washer - 4 PCs;
   * RCL modem's antenna.
 
 
