@@ -109,7 +109,7 @@ Geoscan 401 – multifunctional complex, that included multirotor unmanned aeria
 **Maintenance**
 
 
-After each flight, visually inspect UAV for a damage.
+Visually inspect UAV for a damage after each flight.
 
 If a propellers are damaged, you can replace it yourself using spare parts and tools from the kit.
 
