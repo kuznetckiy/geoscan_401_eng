@@ -405,7 +405,7 @@ Use **Land** command to descent and immediate landing.
 .. attention:: The automatic deceleration during land is triggered at a barometric altitude, respectively, it is not recommended to specify the landing point in a place that varies greatly in relief from the take off point.
 
 
-Flight on demand
+Guided flight
 ---------------------
 **Guided flight** allows to send the UAV to the specified point on the map (the
 altitude should indicated).
