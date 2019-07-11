@@ -20,13 +20,13 @@ The antenna icon and the number of connected UAV's on the screen's lower right c
 
 Run **NetTopology**:
 
-* Click on **Search new devices** icon.
+* Click **Search new devices** button.
 
 .. figure:: _static/_images/planner29.png
    :align: center
    :width: 200
 
-   Search icon
+   Search button
 
 
 The program shows a list of detected modems.
@@ -34,7 +34,7 @@ The program shows a list of detected modems.
 
 .. note:: The button is fixable. It should be pressed again to stop searching.
 
-* Choose UAV №xxx and click on **Add device** icon.
+* Choose UAV №xxx and click **Add device** button.
 
 .. figure:: _static/_images/planner30.png
    :align: center
@@ -104,7 +104,7 @@ Areal surveying
 -------------------------------------------
 Areal surveying is an aerial photography of polygons. Polygon is an area, bounded by polygon. The operator sets the vertices of the polygon, and the program automatically calculates the route for UAV.
 
-1) Click on **Create areal surveying** icon on the toolbar.
+1) Click on **Create areal surveying** button on the toolbar.
 
 .. figure:: _static/_images/planner8.png
    :align: center
@@ -218,7 +218,7 @@ Linear surveying
 ---------------------------
 Linear aerial photography is performed in order to survey linear extended objects, such as: rivers, roads, power lines, oil pipelines.
 
-1) Click **Create linear surveying** icon on the toolbar.
+1) Click **Create linear surveying** button on the toolbar.
 
 .. figure:: _static/_images/planner16.png
    :align: center
@@ -240,13 +240,13 @@ Flight by points
 -------------------
 **Create flight by points** can be used for exploring territories or flying around high-rise objects.
 
-1) Click **Create Flight by points** icon on the toolbar.
+1) Click **Create Flight by points** button on the toolbar.
 
 .. figure:: _static/_images/planner31.png
    :align: center
    :width: 500
 
-   Create flight by points icon
+   Create flight by points button
 
 2) By single mouse clicks specify flight by points route.
 
@@ -298,15 +298,15 @@ If you use infinite waiting the UAV will hold the point, until a low battery tri
 
 Panoramic survey
 ---------------------
-Use **Create panoramic photos** icon to make photo series for panorama.
+Use **Create panoramic photos** button to make photo series for panorama.
 
-1) Click **Create panoramic photos** icon on the toolbar.
+1) Click **Create panoramic photos** button on the toolbar.
 
 .. figure:: _static/_images/planner33.png
    :align: center
    :width: 500
 
-   Create panoramic photos icon
+   Create panoramic photos button
 
 Shooting is carried out in full rotation in azimuth and in the range from 0 to 80 in tilt by default. If it needs, you can change the parameters of the panoramic shooting in the **Properties** tab of expert mode (see full Geoscan Planner instructions).
 
@@ -317,13 +317,13 @@ Use **Create landing point** command to set landing point different from start p
 
 In the absence of a specified landing point in flight task project, UAV automatically returns to the takeoff point where it performs landing.
 
-1) Click **Create landing point** icon on the toolbar.
+1) Click **Create landing point** button on the toolbar.
 
 .. figure:: _static/_images/planner34.png
    :align: center
    :width: 500
 
-   Create landing point icon
+   Create landing point button
 
 2) Set UAV's landing point by single mouse click on a map.
 
@@ -331,13 +331,13 @@ In the absence of a specified landing point in flight task project, UAV automati
 Pre-launch preparation
 ----------------------------
 
-1) Click**Start preparing** icon.
+1) Click **Start preparing** button.
 
 .. figure:: _static/_images/planner26.png
    :align: center
    :width: 300
 
-   Start preparing icon
+   Start preparing button
 
 Follow the instructions of the Start preparing Wizard (most tests are runned automatically).
 Set the offline flight time (without connection between GCS and UAV) and set return's height after finishing flight mission or end of autonomic flight. 
@@ -347,13 +347,13 @@ Set the offline flight time (without connection between GCS and UAV) and set ret
 Flight
 ----------------------------
 
-1) Click on **Start** icon.
+1) Click on **Start** button.
 
 .. figure:: _static/_images/planner27.png
    :align: center
    :width: 300
 
-   Start icon
+   Start button
 
 
 Make sure that nothing prevents the rotation of the propellers and confirm the engines start.
@@ -381,26 +381,26 @@ Cancel
 ----------
 **Cancel** command directs the UAV to start point. UAV will start land when be opposite the starting point.
 
-1) Click **Cancel** icon.
+1) Click **Cancel** button.
 
 .. figure:: _static/_images/planner37.png
    :align: center
    :width: 300
 
-   Cancel icon
+   Cancel button
 
 
 Land
 ---------
 Use **Land** command to descent and immediate landing.
 
-1) Click on **Land** icon.
+1) Click on **Land** button.
 
 .. figure:: _static/_images/planner38.png
    :align: center
    :width: 300
 
-   Land icon
+   Land button
 
 .. attention:: The automatic deceleration during land is triggered at a barometric altitude, respectively, it is not recommended to specify the landing point in a place that varies greatly in relief from the take off point.
 
@@ -413,13 +413,13 @@ Once the specified point is reached, the UAV will hold to this point until the
 operator intervenes in the flight task, or until the lack of battery charge triggers
 automatic return.
 
-1) Click **Guided flight** icon.
+1) Click **Guided flight** button.
 
 .. figure:: _static/_images/planner39.png
    :align: center
    :width: 300
 
-   Guided flight icon
+   Guided flight button
 
 2) Specify a point on the map and set the height.
 
@@ -443,13 +443,13 @@ Semi-automatic control
 
 You can activate manual control mode after pre-launch preparation and take off.
 
-1) Click **Semi-automatic control** icon.
+1) Click **Semi-automatic control** button.
 
 .. figure:: _static/_images/planner42.png
    :align: center
    :width: 200
 
-   Semi-automatic control icon
+   Semi-automatic control button
 
 .. attention:: Flight mission is paused when manual control mode is on. the mission will continue after remote control deactivation. 
 
