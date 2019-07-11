@@ -1,4 +1,4 @@
-Setup the camera
+Set up the camera
 =========================
 
 Set up the Sony DSC-RX1 camera
