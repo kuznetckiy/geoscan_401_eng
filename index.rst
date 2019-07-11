@@ -35,7 +35,7 @@ Geoscan 401 – multifunctional complex, that included multirotor unmanned aeria
 * Right rotation propeller - 2 PCs
 * Charge station with transport container
 * Ground Control Station (GCS) based on laptop with software *
-* Table for GCS *
+* GCS's Table *
 * Mouse
 * RCL modem
 * RCL modem's antenna

@@ -8,11 +8,11 @@ Kit
 * RCL modem
 * RCL antenna
 * RCL pole
-* GCS's tray
+* GCS's table
 
 Развертывание
 -------------------
-1) Eject the GCS's tray from the UAV's transport container.
+1) Eject the GCS's table from the UAV's transport container.
 2) Place the table on a flat work surface.
 3) Undo textile clasp and eject a laptop.
 4) Assemble parts of the RCL pole together.
