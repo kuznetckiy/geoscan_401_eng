@@ -52,9 +52,9 @@ You can reconnect the RCL modem by clicking **Reconnect** in context menu, if UA
    :align: center
    :width: 150
 
-   Context menu MdmDisp
+   MdmDisp сontext menu
 
-4) Run the program **Geoscan Planner**.
+4) Run the **Geoscan Planner** program.
 5) Enter your login and password.
 6) In context menu **Flight** select **Connect to the UAV – Search...** for a searching UAV's.
 

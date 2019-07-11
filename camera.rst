@@ -1,7 +1,7 @@
 Setup the camera
 =========================
 
-Setup the Sony DSC-RX1 camera
+Set up the Sony DSC-RX1 camera
 ------------------------------------------
 
 .. |icon_cam| image:: _static/_images/icon_cam.png
@@ -129,7 +129,7 @@ To reset all settings set:
 
 .. important:: The camera can display the message E: 61: 00. It means that the camera is focused on maximum range. The camera still works correctly.
 
-Setup the Sony A6000 camera
+Set up the Sony A6000 camera
 ------------------------------------
 
 Read the camera's full operating instructions to know about main control elements before make settings.
@@ -201,7 +201,7 @@ Use the control wheel to set the following parameters:
 .. attention::  All data will be deleted!
 
 
-Offset's coordinates
+Offsets coordinates
 --------------------------------------------------------
 
 The antenna of the geodetic receiver is located inside the UAV. The phase center is offset from the center point of the camera lens.
