@@ -10,8 +10,8 @@ Kit
 * RCL pole
 * GCS's table
 
-Развертывание
--------------------
+Assembly and set up
+-----------------------
 1) Eject the GCS's table from the UAV's transport container.
 2) Place the table on a flat work surface.
 3) Undo textile clasp and eject a laptop.
