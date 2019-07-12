@@ -144,7 +144,7 @@ Use the control wheel to set the following parameters:
    "**Exposition**", "**1/800**"
    "**ISO**", "**Auto**"
 
-* In Still shooting menu |icon_cam| (tab 2) set **Focus Mode** - **Manual focus**.
+* In still shooting menu |icon_cam| (tab 2) set **Focus Mode** - **Manual focus**.
 
 .. figure:: _static/_images/menu4.png
    :align: center
@@ -152,7 +152,7 @@ Use the control wheel to set the following parameters:
 
    Focus Mode
 
-* In Custom settings menu |icon_set| (tab 1) disable **Automatic preview**.
+* In custom settings menu |icon_set| (tab 1) disable **Automatic preview**.
 
 .. figure:: _static/_images/menu5.png
    :align: center
@@ -160,7 +160,7 @@ Use the control wheel to set the following parameters:
 
    Automatic preview off
 
-* In Custom settings menu |icon_set| (tab 3) turn on **Lens-less Shutter**.
+* In custom settings menu |icon_set| (tab 3) turn on **Lens-less Shutter**.
 
 
 .. figure:: _static/_images/menu6.png
@@ -169,7 +169,7 @@ Use the control wheel to set the following parameters:
 
    Turn on the shutter without a lens
 
-* In Custom Settings menu |icon_set| (tab 6) set the **MOVIE** button - **Video mode only**.
+* In custom Settings menu |icon_set| (tab 6) set the **MOVIE** button - **Video mode only**.
 
 .. figure:: _static/_images/menu7.png
    :align: center
@@ -177,7 +177,7 @@ Use the control wheel to set the following parameters:
 
    Set "Video Mode Only"
 
-* In menu |icon_bag| (tab 2) set **Start time energy saving** - **30 min**.
+* In setup menu |icon_bag| (tab 2) set **Start time energy saving** - **30 min**.
 
 .. figure:: _static/_images/menu8.png
    :align: center
@@ -185,7 +185,7 @@ Use the control wheel to set the following parameters:
 
    Set the time to start energy saving
 
-* In menu |icon_bag| (tab 5) set **File Number** - **Reset**.
+* In setup menu |icon_bag| (tab 5) set **File Number** - **Reset**.
 
 .. figure:: _static/_images/menu9.png
    :align: center

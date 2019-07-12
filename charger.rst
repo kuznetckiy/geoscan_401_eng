@@ -23,7 +23,7 @@ Safety requirements
 * Don't overcharge the battery (over 42V).
 * Don't allow the battery discharge below 30V.
 * Don't store battery fully discharged. For long-term battery storage (a month or more) it must be transferred to the **Storage** mode by the battery charger.
-* Don't charge battery by currents more than charge limit (not more than 100% capacity level, it is recommended to charge 50% to extend a lifetime). Current more than the limit will heat the battery over than 60 °C. 
+* Don't charge battery by currents more than charge limit (no more than 100% of the capacity. We recommended to charge 50% of the capacity to extend the battery's life cycle). Current more than the limit will heat the battery over than 60 °C. 
 
 .. attention:: Failure to follow the above instructions may result in fire or battery failure.
 
@@ -42,7 +42,7 @@ Preset of the battery charger
 
 Follow these steps to open the settings menu:
 
-* In **PROGRAM SELECT** menu (main screen) press the **Batt type/Stop** button repeatedly, пока на дисплее не появится раздел **Settings**;
+* In **PROGRAM SELECT** menu (main screen) press the **Batt type/Stop** button repeatedly, until charger's display shows **Settings** menu;
 
 * Confirm by pressing the button **Start/Enter**;
 
@@ -94,7 +94,7 @@ How to connect the battery to the charger
 .. Attention:: Make sure that the engine is run, when you charge the battery from car battery. A car battery is completely discharged, if you don't check it.
 
 
-Battery's display
+Battery indication
 ------------------------
 
 .. figure:: _static/_images/akb-ind.png
@@ -107,7 +107,7 @@ Push the button (1) to see battery status. LED indicators (4) will display the l
 * Green state LED (2) means battery voltage level (The battery is fully discharged, when the LED ingicators (4) are off. All LED indicators are lights, when battery is full charged).
 * Red state LED (2) means temperature level inside the battery.
 
-.. csv-table:: **Battery's temperature display**
+.. csv-table:: **Battery's temperature indicators**
    :header: "Number of LEDs", "Glow mode", "Temperature, °С"
    
 
