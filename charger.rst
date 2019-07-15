@@ -23,11 +23,7 @@ Safety requirements
 * Don't overcharge the battery (over 42V).
 * Don't allow the battery discharge below 30V.
 * Don't store battery fully discharged. For long-term battery storage (a month or more) it must be transferred to the **Storage** mode by the battery charger.
-<<<<<<< HEAD
-* Don't charge battery with currents more than charge limit (not more than 100% capacity level, it is recommended to charge 50% to extend a lifetime). Applying current which exceeds the limit will heat the battery over 60 °C. 
-=======
-* Don't charge battery by currents more than charge limit (no more than 100% of the capacity. We recommended to charge 50% of the capacity to extend the battery's life cycle). Current more than the limit will heat the battery over than 60 °C. 
->>>>>>> 9d77948ba697a2ef68cd930063eb489f3eadc365
+* Don't charge battery by currents more than charge limit (no more than 100% of the capacity? it is recommended to charge 50% to extend a lifetime). Applying current witch exceeds the limit will heat the battery over than 60 °C. 
 
 .. attention:: Failure to follow the above instructions may result in fire or battery failure.
 
@@ -46,15 +42,11 @@ Preset of the battery charger
 
 Follow these steps to open the settings menu:
 
-<<<<<<< HEAD
 * In **PROGRAM SELECT** menu (main screen) press the **Batt type/Stop** button repeatedly, until **Settings** menu is selected;
-=======
-* In **PROGRAM SELECT** menu (main screen) press the **Batt type/Stop** button repeatedly, until charger's display shows **Settings** menu;
->>>>>>> 9d77948ba697a2ef68cd930063eb489f3eadc365
 
 * Confirm by pressing the button **Start/Enter**;
 
-* Use **Dec/Inc** buttons ;
+* Use **Dec/Inc** buttons;
 
 Set these parameters in **Settings** menu:
 
@@ -166,7 +158,7 @@ Storage and discharge
 
 **Storage**
 
-If you don't plan to use the battery for more than 14 days, put it in a storage mode, 
+If you don't plan to use the battery for more than 14 days, put it in a storage mode. 
 
 Change **BALANCE CHG** mode to **STORAGE** to put battery in a storage mode. Check correct number of cells (10 Cells) and activate it by long press of **Start/Enter** button.
 
