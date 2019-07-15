@@ -4,9 +4,9 @@ Geoscan Planner
 Preset
 -----------------------------------
 
-1) Connect RCL modem with the notebook.
-2) Turn UAV power.
-3) Run application **MdmDisp**.
+1) Connect CRL modem with the notebook.
+2) Turn UAV power on.
+3) Run **MdmDisp** application .
 
 The antenna icon and the number of connected UAV's on the screen's lower right corner are displayed.
 
@@ -44,7 +44,7 @@ The program shows a list of detected modems.
 
 The program saves the list of added devices.
 
-Just run **MdmDisp** and make sure that the connection is successful on next time.
+Run **MdmDisp** and make sure that the connection is successful on next time.
 
 You can reconnect the RCL modem by clicking **Reconnect** in context menu, if UAV is not detected.
 
@@ -52,7 +52,7 @@ You can reconnect the RCL modem by clicking **Reconnect** in context menu, if UA
    :align: center
    :width: 150
 
-   MdmDisp сontext menu
+   MdmDisp context menu
 
 4) Run the **Geoscan Planner** program.
 5) Enter your login and password.
@@ -210,7 +210,7 @@ To change the polygon entry point, follow these steps:
 .. |flag| image:: _static/_images/flag.png
     :width: 50
 
-A marker |flag| appears at the selected entry point.
+A marker |flag| appears at the selected entry point. 
 
 
 
@@ -237,7 +237,7 @@ Linear aerial photography is performed in order to survey linear extended object
 
 
 Flight by points
--------------------
+---------------------
 **Create flight by points** can be used for exploring territories or flying around high-rise objects.
 
 1) Click **Create Flight by points** button on the toolbar.

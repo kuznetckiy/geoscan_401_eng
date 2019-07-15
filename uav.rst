@@ -16,7 +16,7 @@ Assembly
 1) Take the landing gears base part and landing gears from the UAV's transport container.
 2) Put landing gears in the landing gears base part tubes.
 3) Tighten connecting nuts on landing gears by hands.
-4) Fix nuts position by elastic fixators.
+4) Secure nuts position by elastic fixators.
 
 .. figure:: _static/_images/asmbl1.png
    :width: 400
@@ -119,4 +119,4 @@ Assembly
 
    Installing of the battery
 
-15) Fix the battery by textile clasp.
+15) Secure the battery by textile clasp.

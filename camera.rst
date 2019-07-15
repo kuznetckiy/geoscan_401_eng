@@ -46,7 +46,7 @@ Press **MENU** button to see settings menu and set this parameters:
 
    Still shooting parameters
 
-* In custom menu |icon_set| (tab 1) set **Auto Review** - **Off**.
+* In custom menu |icon_set| (tab 1) set **Auto preview** - **Off**.
 
 .. figure:: _static/_images/menu2.png
    :width: 400
@@ -132,7 +132,7 @@ To reset all settings set:
 Set up the Sony A6000 camera
 ------------------------------------
 
-Read the camera's full operating instructions to know about main control elements before make settings.
+Read the camera's full operating instructions to know about main control elements before you change any settings.
 
 * Set the mode dial to **S** (Shutter Priority).
 
@@ -205,7 +205,7 @@ Offsets coordinates
 --------------------------------------------------------
 
 The antenna of the geodetic receiver is located inside the UAV. The phase center is offset from the center point of the camera lens.
-The amount of offset should be taken, when you generate ortophotomaps and 3D models.
+Offset value should be taken into account when you generate ortophotomaps and 3D models.
 
 
 .. figure:: _static/_images/camera_position.png
